@@ -17,8 +17,8 @@ Trabajo Practico de Organizacion del Computador 2
  ![Captura de pantalla de 2021-10-27 23-34-10](https://user-images.githubusercontent.com/72640828/139180756-82af0202-e80f-4299-a40c-de1e54d780ee.png)
  En mi caso las raices corresponde a los valores: a= 1,5 b=5,0 y c=-1,0
  
- Por otro lado, para ejecutar el codigo para el segundo punto del TP sobre el producto escalar, segun lo comentado en clase. Solo realice en SASM el programa y usando los print   del entorno. 
- En este caso el valor de N es 2 y el vector [25.0,1.5,1.0,0.5] y los resultados es el siguiente.
+ Por otro lado, para ejecutar el codigo para el segundo punto del TP sobre el producto escalar, segun lo comentado en clase, realice en SASM el programa y usando los print   del entorno. 
+ En este caso el valor de N es 2 y el vector [25.0,1.5,1.0,0.5] y resuelve, el siguiente resultado.
  
  
 ![prodescalar](https://user-images.githubusercontent.com/72640828/139181940-ccca9d67-605c-433c-bdbb-37f406b62699.png)
